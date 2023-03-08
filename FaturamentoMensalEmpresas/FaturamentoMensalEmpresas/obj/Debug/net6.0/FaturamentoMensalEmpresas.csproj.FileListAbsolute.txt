@@ -1,0 +1,15 @@
+C:\ProjetosLucas\Teste\FaturamentoMensalEmpresas\FaturamentoMensalEmpresas\bin\Debug\net6.0\FaturamentoMensalEmpresas.exe
+C:\ProjetosLucas\Teste\FaturamentoMensalEmpresas\FaturamentoMensalEmpresas\bin\Debug\net6.0\FaturamentoMensalEmpresas.deps.json
+C:\ProjetosLucas\Teste\FaturamentoMensalEmpresas\FaturamentoMensalEmpresas\bin\Debug\net6.0\FaturamentoMensalEmpresas.runtimeconfig.json
+C:\ProjetosLucas\Teste\FaturamentoMensalEmpresas\FaturamentoMensalEmpresas\bin\Debug\net6.0\FaturamentoMensalEmpresas.dll
+C:\ProjetosLucas\Teste\FaturamentoMensalEmpresas\FaturamentoMensalEmpresas\bin\Debug\net6.0\FaturamentoMensalEmpresas.pdb
+C:\ProjetosLucas\Teste\FaturamentoMensalEmpresas\FaturamentoMensalEmpresas\obj\Debug\net6.0\FaturamentoMensalEmpresas.csproj.AssemblyReference.cache
+C:\ProjetosLucas\Teste\FaturamentoMensalEmpresas\FaturamentoMensalEmpresas\obj\Debug\net6.0\FaturamentoMensalEmpresas.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosLucas\Teste\FaturamentoMensalEmpresas\FaturamentoMensalEmpresas\obj\Debug\net6.0\FaturamentoMensalEmpresas.AssemblyInfoInputs.cache
+C:\ProjetosLucas\Teste\FaturamentoMensalEmpresas\FaturamentoMensalEmpresas\obj\Debug\net6.0\FaturamentoMensalEmpresas.AssemblyInfo.cs
+C:\ProjetosLucas\Teste\FaturamentoMensalEmpresas\FaturamentoMensalEmpresas\obj\Debug\net6.0\FaturamentoMensalEmpresas.csproj.CoreCompileInputs.cache
+C:\ProjetosLucas\Teste\FaturamentoMensalEmpresas\FaturamentoMensalEmpresas\obj\Debug\net6.0\FaturamentoMensalEmpresas.dll
+C:\ProjetosLucas\Teste\FaturamentoMensalEmpresas\FaturamentoMensalEmpresas\obj\Debug\net6.0\refint\FaturamentoMensalEmpresas.dll
+C:\ProjetosLucas\Teste\FaturamentoMensalEmpresas\FaturamentoMensalEmpresas\obj\Debug\net6.0\FaturamentoMensalEmpresas.pdb
+C:\ProjetosLucas\Teste\FaturamentoMensalEmpresas\FaturamentoMensalEmpresas\obj\Debug\net6.0\FaturamentoMensalEmpresas.genruntimeconfig.cache
+C:\ProjetosLucas\Teste\FaturamentoMensalEmpresas\FaturamentoMensalEmpresas\obj\Debug\net6.0\ref\FaturamentoMensalEmpresas.dll
